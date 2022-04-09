@@ -4,19 +4,19 @@
     "url": "https://buatin.website",
     "icon": "https://favicons.githubusercontent.com/buatin.website",
     "slug": "buatin-website",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1461,
-    "timeDay": 1461,
-    "timeWeek": 1461,
-    "timeMonth": 1461,
-    "timeYear": 1461,
+    "status": "up",
+    "uptime": "87.38%",
+    "uptimeDay": "87.38%",
+    "uptimeWeek": "87.38%",
+    "uptimeMonth": "87.38%",
+    "uptimeYear": "87.38%",
+    "time": 1440,
+    "timeDay": 1440,
+    "timeWeek": 1440,
+    "timeMonth": 1440,
+    "timeYear": 1440,
     "dailyMinutesDown": {
-      "2022-04-09": 0
+      "2022-04-09": 36
     }
   }
 ]
