@@ -4,7 +4,7 @@
     "url": "https://buatin.website",
     "icon": "https://favicons.githubusercontent.com/buatin.website",
     "slug": "buatin-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
     "uptimeDay": "97.85%",
     "uptimeWeek": "99.31%",
@@ -12,7 +12,7 @@
     "uptimeYear": "99.46%",
     "time": 2846,
     "timeDay": 14479,
-    "timeWeek": 3848,
+    "timeWeek": 4381,
     "timeMonth": 2846,
     "timeYear": 2846,
     "dailyMinutesDown": {
