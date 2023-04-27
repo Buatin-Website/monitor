@@ -4,7 +4,7 @@
     "url": "https://buatin.website",
     "icon": "https://icons.duckduckgo.com/ip3/buatin.website.ico",
     "slug": "buatin-website",
-    "status": "up",
+    "status": "down",
     "uptime": "97.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1600,
     "timeYear": 1736,
     "dailyMinutesDown": {
+      "2023-04-27": 0,
       "2023-04-05": 129,
       "2023-04-04": 664,
       "2023-04-03": 37,
