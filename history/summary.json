@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/buatin.website.ico",
     "slug": "buatin-website",
     "status": "up",
-    "uptime": "95.98%",
+    "uptime": "95.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.92%",
     "uptimeYear": "94.88%",
-    "time": 1785,
-    "timeDay": 1253,
-    "timeWeek": 1621,
-    "timeMonth": 2140,
+    "time": 1784,
+    "timeDay": 1484,
+    "timeWeek": 1642,
+    "timeMonth": 2137,
     "timeYear": 1814,
     "dailyMinutesDown": {
       "2024-03-24": 803,
@@ -57,8 +57,7 @@
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1342,
-      "2023-04-05": 129,
-      "2023-04-04": 664
+      "2023-04-05": 129
     }
   }
 ]
