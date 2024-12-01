@@ -6,14 +6,14 @@
     "slug": "buatin-website",
     "status": "up",
     "uptime": "96.25%",
-    "uptimeDay": "92.16%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "95.10%",
     "uptimeMonth": "98.87%",
-    "uptimeYear": "96.30%",
+    "uptimeYear": "96.58%",
     "time": 1623,
-    "timeDay": 3369,
-    "timeWeek": 1754,
-    "timeMonth": 1374,
+    "timeDay": 1506,
+    "timeWeek": 1781,
+    "timeMonth": 1393,
     "timeYear": 1512,
     "dailyMinutesDown": {
       "2024-11-29": 172,
@@ -56,8 +56,7 @@
       "2024-01-10": 32,
       "2023-12-24": 211,
       "2023-12-23": 120,
-      "2023-12-03": 1362,
-      "2023-12-02": 1440
+      "2023-12-03": 1362
     }
   }
 ]
