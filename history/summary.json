@@ -6,14 +6,14 @@
     "slug": "buatin-website",
     "status": "up",
     "uptime": "88.40%",
-    "uptimeDay": "1.08%",
-    "uptimeWeek": "0.15%",
-    "uptimeMonth": "7.99%",
+    "uptimeDay": "2.02%",
+    "uptimeWeek": "0.29%",
+    "uptimeMonth": "8.02%",
     "uptimeYear": "64.50%",
-    "time": 1747,
-    "timeDay": 887,
-    "timeWeek": 510,
-    "timeMonth": 277,
+    "time": 1748,
+    "timeDay": 999,
+    "timeWeek": 599,
+    "timeMonth": 318,
     "timeYear": 1706,
     "dailyMinutesDown": {
       "2026-03-05": 1284,
@@ -156,5 +156,23 @@
       "2025-05-15": 46,
       "2025-05-13": 543
     }
+  },
+  {
+    "name": "Aira Studio",
+    "url": "https://airastudio.buatin-website.com",
+    "icon": "https://icons.duckduckgo.com/ip3/airastudio.buatin-website.com.ico",
+    "slug": "aira-studio",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 818,
+    "timeDay": 818,
+    "timeWeek": 818,
+    "timeMonth": 818,
+    "timeYear": 818,
+    "dailyMinutesDown": {}
   }
 ]
