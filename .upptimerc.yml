@@ -7,6 +7,10 @@ sites:
     url: https://buatin-website.com
     assignees:
       - coziboy
+  - name: "Aira Studio"
+    url: https://airastudio.buatin-website.com
+    assignees:
+      - coziboy
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
