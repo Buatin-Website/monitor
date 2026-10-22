@@ -4,17 +4,17 @@
     "url": "https://buatin-website.com",
     "icon": "https://icons.duckduckgo.com/ip3/buatin-website.com.ico",
     "slug": "buatin-website",
-    "status": "up",
-    "uptime": "89.83%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "89.84%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "77.65%",
-    "time": 1605,
-    "timeDay": 2016,
-    "timeWeek": 1803,
-    "timeMonth": 1808,
-    "timeYear": 1341,
+    "time": 1604,
+    "timeDay": 1277,
+    "timeWeek": 1654,
+    "timeMonth": 1774,
+    "timeYear": 1340,
     "dailyMinutesDown": {
       "2025-11-18": 136,
       "2026-03-05": 1284,
@@ -100,7 +100,8 @@
       "2026-07-11": 1440,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
-      "2026-07-08": 319
+      "2026-07-08": 319,
+      "2026-10-22": 0
     }
   },
   {
@@ -115,9 +116,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 811,
-    "timeDay": 913,
-    "timeWeek": 858,
-    "timeMonth": 837,
+    "timeDay": 879,
+    "timeWeek": 861,
+    "timeMonth": 839,
     "timeYear": 811,
     "dailyMinutesDown": {}
   }
